@@ -7,7 +7,12 @@ Python提取PDF发票内容保存到Excel
 
 ------
 
-<font color='red' size='120%'>注意：密码是:a3s7wt29yn1m48zj</font>
+
+---
+<font color=red>程序更新了，需要使用的朋友请到这里下载[ExtractInvoice.exe](https://fanyuzone.oss-cn-beijing.aliyuncs.com/program/ExtractInvoice.exe)。注意：因为是Python打包，故程序启动较慢，大概需要一分钟，请耐心等待！</font>
+
+测试用发票可在此下载
+1.[样本一](https://fanyuzone.oss-cn-beijing.aliyuncs.com/program/test/91420000753416406R_a34c491011c0420dbe1f15165b06d11a.pdf)；[样本二](https://fanyuzone.oss-cn-beijing.aliyuncs.com/program/test/91420100581839321E_cf873bbec0a24ae59a4d3ebd9e365572.pdf)；[样本三](https://fanyuzone.oss-cn-beijing.aliyuncs.com/program/test/91420112792429656B_9434b07ac46d4bfa9fce7674fdc3a5b0.pdf)
 
 ------
 
