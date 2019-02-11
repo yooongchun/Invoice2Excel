@@ -20,7 +20,7 @@ Python提取PDF发票内容保存到Excel
 
 作者：yooongchun
 
-CSDN博客：https://blog.csdn.net/zyc121561
+博客：
 
 微信公众号：yooongchun小屋
 
