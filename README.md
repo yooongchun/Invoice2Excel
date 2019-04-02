@@ -18,18 +18,6 @@ Python提取PDF发票内容保存到Excel
 
 ------
 
-作者：yooongchun
-
-博客：
-
-微信公众号：yooongchun小屋
-
-------
-
-![](images/yooongchun%E5%B0%8F%E5%B1%8B.jpg)
-
-------
-
 - 程序功能及使用：
 
   程序会把发票中的内容提取出来然后写入Excel中，一个示例的发票内容如下：
