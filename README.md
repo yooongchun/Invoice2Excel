@@ -12,7 +12,7 @@
 
 提取结果如下：
 
-![](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/202004/result.png)
+![提取结果](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/202004/result.png)
 
 ### 程序使用
 
