@@ -16,7 +16,7 @@
 
 ### 程序使用
 
-- 方式一：网页版使用：[点击这里](https://www.yooongchun.com/apps)
+- 方式一：网页版使用（按量付费使用，可试用）：[点击这里](https://www.yooongchun.com/apps)
 
 - 下载代码
 
