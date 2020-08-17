@@ -16,9 +16,9 @@
 
 ### 程序使用
 
-- 方式一：网页版使用（按量付费使用，可试用）：[点击这里](https://www.yooongchun.cn/apps)
+- 方式一：网页版使用（按量付费使用，可免费试用10份。注意：网页版的代码支持更多类型的发票识别提取）：[点击这里](https://www.yooongchun.cn/apps)
 
-- 下载代码
+- 方式二：下载代码
 
   ```shell
   git clone https://github.com/yooongchun/PDF_Invoice2Excel.git
