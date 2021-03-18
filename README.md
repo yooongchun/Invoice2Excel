@@ -1,3 +1,5 @@
+# 为提升国内访问速度，代码迁移到gitee仓库： https://gitee.com/yczha/Invoice2Excel ，此处不再维护！
+
 # Invoice2Excel
 
 摘要：这篇文章介绍如何把发票内容提取出来保存到Excel中。
