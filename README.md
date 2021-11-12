@@ -16,49 +16,8 @@
 
 ### 程序使用
 
-- 方式一：网页版使用（按量付费使用，可免费试用10份。注意：网页版的代码支持更多类型的发票识别提取）：[点击这里](https://www.yooongchun.com)
-
-- 方式二：下载代码
-
-  ```shell
-  git clone https://github.com/yooongchun/PDF_Invoice2Excel.git
-  ```
-
-- 安装依赖包：
-
-  ```shell
-  python -m pip install -r requirements.txt
-  # 或者
-  pip install -r requirements.txt
-  ```
-
-- 准备数据
-
-  准备好PDF文件，放置到一个目录下
-
-- 运行程序
-
-  ```shell
-   # 注意：这里data指你的pdf文件放置的文件夹， -p data也可以替换为--path=data
-  python Invoice2Excel.py -p data
-  ```
-
-### 更多
-
-- 运行测试，可以通过以下命令运行测试
-
-  ```shell
-  python Invoice2Excel.py
-  ```
-
-- 指定输出文件位置
-
-  ```shell
-  # 注意：这里data.xlsx指你的pdf结果保存文件， -s data.xlsx也可以替换为--save=data.xlsx
-  python Invoice2Excel.py -s data.xlsx
-  # 也可以同时指定两个参数
-  python Invoice2Excel.py -s data.xlsx -path=data
-  ```
+点击这里下载：[下载地址](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/app/exe/OAA-v1.1.0.20211112.exe)
+或者在这里下载代码：[代码地址](https://gitee.com/yczha/app)
 
 ### 获取帮助
 
