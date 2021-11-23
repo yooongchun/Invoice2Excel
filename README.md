@@ -16,7 +16,7 @@
 
 ### 程序使用
 
-点击这里下载：[下载地址](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/app/exe/OAA-v1.1.0.20211112.exe)
+点击这里下载：[下载地址](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/app/exe/OAA.exe)
 或者在这里下载代码：[代码地址](https://gitee.com/yczha/app)
 
 ### 获取帮助
