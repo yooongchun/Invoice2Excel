@@ -16,13 +16,11 @@
 
 ### 程序使用
 在线使用：[App|永春小站](https://www.yooongchun.com/app)
-点击这里下载：[下载地址](https://yooongchun-blog-v2.oss-cn-beijing.aliyuncs.com/app/exe/OAA.exe)
-或者在这里下载代码：[代码地址](https://gitee.com/yczha/app)
 
 ### 获取帮助
 
 联系作者获取帮助：
 
-- 微信：18217235290
+- 微信：yongchunzha
 - Email：yooongchun@foxmail.com
-- 博客：[永春小站](http://www.yooongchun.com)
+- 博客：[永春小站](https://www.yooongchun.com)
